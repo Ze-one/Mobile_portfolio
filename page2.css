@@ -1,129 +1,123 @@
-.icon
-{
-    
-    position: absolute;
-    top: 10px;
-    right: 10px;
+.icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
-.logo
-{
-    margin-top: 10px;
-    width: 76px;
-    height: 20px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 20px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    color: #6070FF;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-}
-.des
-{
-    width: 327px;
-height: 146px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-color: #344563;
-flex: none;
-order: 1;
-flex-grow: 0;
-margin-left:8%;
-}
-.twit
-{
-    position: absolute;
-    left: 6.4%;
-    right: 88.27%;
-    top: 63.81%;
-    bottom: 18.88%;
-    
-}
-.in
-{
-    position: absolute;
-left: 16.8%;
-right: 81.87%;
-top: 63.81%;
-bottom: 18.87%;
 
-    
+.logo {
+  margin-top: 10px;
+  width: 76px;
+  height: 20px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #6070ff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
-.M
-{
-    position: absolute;
-    left: 27.47%;
-    right: 67.2%;
-    top: 63.81%;
-    bottom: 19.21%;
+
+.des {
+  width: 327px;
+  height: 146px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left: 8%;
 }
-.git
-{
-    position: absolute;
-    left: 38.13%;
-    right: 57.07%;
-    top: 63.81%;
-    bottom: 18.87%;
-    
+
+.twit {
+  position: absolute;
+  left: 6.4%;
+  right: 88.27%;
+  top: 63.81%;
+  bottom: 18.88%;
 }
-.ii
-{
-    position: absolute;
-    left: 48%;
-    right: 48.22%;
-    top: 63.81%;
-    bottom: 18.87%;
+
+.in {
+  position: absolute;
+  left: 16.8%;
+  right: 81.87%;
+  top: 63.81%;
+  bottom: 18.87%;
 }
-body
-{
-  
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+
+.M {
+  position: absolute;
+  left: 27.47%;
+  right: 67.2%;
+  top: 63.81%;
+  bottom: 19.21%;
 }
-.home
-{
-    background-image: url(55.jpg);
-    background-repeat: no-repeat;
+
+.git {
+  position: absolute;
+  left: 38.13%;
+  right: 57.07%;
+  top: 63.81%;
+  bottom: 18.87%;
 }
-h1{
-    width: 327px;
-height: 150px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 52px;
-display: flex;
-align-items: center;
-color: #172B4D;
+
+.ii {
+  position: absolute;
+  left: 48%;
+  right: 48.22%;
+  top: 63.81%;
+  bottom: 18.87%;
 }
-.connect
-{
-    width: 117px;
-height: 24px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 13px;
-line-height: 24px;
-color: #7F8CFF;
-flex: none;
-order: 0;
-flex-grow: 0;
-margin-left: 9%;
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
 }
-.alex
-{
-    margin: 6.5%;
+
+.home {
+  background-image: url(55.jpg);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  width: 327px;
+  height: 150px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+}
+
+.connect {
+  width: 117px;
+  height: 24px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 24px;
+  color: #7f8cff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-left: 9%;
+}
+
+.alex {
+  margin: 6.5%;
 }
